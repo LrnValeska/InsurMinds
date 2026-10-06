@@ -70,4 +70,4 @@ O fluxo principal da aplicação é:
 
 Materiais do Projeto
 
-- [Apresentação do Projeto Final — InsurMinds](https://docs.google.com/presentation/d/16swuMgzP0_i6XMsSeoRRWNfHcq5CYZzn/edit?rtpof=true&sd=true)
+- [Apresentação do Projeto Final — InsurMinds] https://docs.google.com/presentation/d/16swuMgzP0_i6XMsSeoRRWNfHcq5CYZzn/edit?slide=id.p1#slide=id.p1
