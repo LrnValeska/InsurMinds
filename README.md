@@ -67,3 +67,7 @@ O fluxo principal da aplicação é:
                   ┌─────────────────────┐
                   │ Interface Streamlit │
                   └─────────────────────┘
+
+## Materiais do Projeto
+
+- [Apresentação do Projeto Final — InsurMinds](https://docs.google.com/presentation/d/16swuMgzP0_i6XMsSeoRRWNfHcq5CYZzn/edit?rtpof=true&sd=true)
